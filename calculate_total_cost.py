@@ -21,3 +21,4 @@ class TestCalculateTotalCost(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+# This is running a commint in my local mini-mac 11/30/2025
