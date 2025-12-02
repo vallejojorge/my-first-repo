@@ -20,5 +20,5 @@ def categorize_ratings(rating_list):
     print(f"High: {high}") 
 
 categorize_ratings([1, 3, 5, 7, 8, 9])
-print("Expected Output:\nlow: 2\nMedium: 2\High: 2")
-)
+print("Expected Output:\nlow: 2\nmedium: 2\high: 2")
+# updated line-24 from Medium to medium and High to high
